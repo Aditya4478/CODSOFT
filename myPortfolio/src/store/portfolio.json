@@ -1,0 +1,47 @@
+[
+
+    {
+      "project_name": "DeepThought",
+      "image_url": "https://github.com/Aditya4478/temporary-image-hosting/blob/main/deepthought.png?raw=true",
+      "description": "A Fron-end web application, where users can interact with company activites. It is responsive in nature. User can upload their files & fill the forms given by company",
+      "source_link": "https://github.com/Aditya4478/DEEPTHOUGHT",
+      "live_link": "https://aditya4478.github.io/DEEPTHOUGHT/",
+      "tech_stack": ["HTML","CSS","Figma","Git/Github","Responsiveness"]
+    },
+
+    {
+      "project_name": "ZetApp Clone",
+      "image_url": "https://github.com/Aditya4478/temporary-image-hosting/blob/main/zetapp.png?raw=true",
+      "description": "This is zetapp.in clone. Made as the assignment of UPGRADX Company as a part of interview process for internship on Internshala.",
+      "source_link": "https://github.com/Aditya4478/zetapp",
+      "live_link": "https://zetapp-virid.vercel.app/",
+      "tech_stack": ["Next.js","React.js","Figma","Git/Github","Responsiveness"]
+    },
+
+    {
+      "project_name": "Feed-Who-Need",
+      "image_url": "https://github.com/Aditya4478/temporary-image-hosting/blob/main/FeedWhoNeed.png?raw=true",
+      "description": "It is made to fulfill UN Sustainable Goals under Google Developer Student Club : Solution Challenge Program. Using this site we can solve the problem of 'Wasting extra left foods'",
+      "source_link": "https://github.com/shoaibisa/GDSC-Feed-Who-Need",
+      "live_link": "https://github.com/Aditya4478/temporary-image-hosting/blob/main/error404.png?raw=true",
+      "tech_stack": ["MERN Stack","Figma","MongoDB","React.js","Node.js"]
+    },
+
+    {
+      "project_name": "HarryPotter Game",
+      "image_url": "https://github.com/Aditya4478/temporary-image-hosting/blob/main/HarryPotterGame.png?raw=true",
+      "description": "It is single Player gaming site. It includes 3 games : Memory Game, House Detecting Game, Treasure Hunt. ",
+      "source_link": "https://github.com/Aditya4478/Harry-Potter-Game",
+      "live_link": "https://aditya4478.github.io/Harry-Potter-Game/",
+      "tech_stack": ["HTML","CSS","Advance CSS","Git/Github"]
+    },
+
+    {
+      "project_name": "Magical Notes",
+      "image_url": "https://github.com/Aditya4478/temporary-image-hosting/blob/main/magicalNotes.png?raw=true",
+      "description": "It is used to take notes. It saves your notes in cache memory. You can insert a new Note, Remove existing Note & can export all notes in .txt file.",
+      "source_link": "https://github.com/Aditya4478/Magical-Notes",
+      "live_link": "https://aditya4478.github.io/Magical-Notes/",
+      "tech_stack": ["HTML","CSS","JavaScript"]
+    }
+]
