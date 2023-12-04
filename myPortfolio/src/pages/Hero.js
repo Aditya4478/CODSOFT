@@ -12,7 +12,7 @@ const Hero = () => (
         <p className="paragraph">I'm passionate for Hacking, Software Engineering & Web-Development having experience of 3+ years. I have done solo projects and mostly LEAD group projects by motivating members to achieve common targets. My Career Objective is to work in a dynamic, professional & innovative environment with my creativity and ‘Out of the box’ thinking to achieve conducive output!</p>
         <div className="hero-btns">
           <button className="hire-me">
-            <a href="https://drive.google.com/file/d/1IkeeVElk97rqtrTpJMRJ4Id2PS_D16Ja/view?usp=sharing" target="_blank" rel="noreferrer">
+            <a href="https://drive.google.com/file/d/1z2G10Up9tPTUkTjfwBH-NnK8jwGjZeJz/view?usp=sharing" target="_blank" rel="noreferrer">
               GET MY CV
             </a>
           </button>
