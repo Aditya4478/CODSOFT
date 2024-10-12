@@ -17,8 +17,8 @@ const Projects = () => {
     <div className="projects" id="projects">
       <h1 className="title projects-title">featuRed pRojecTs</h1>
       <p className="projects-para">
-        Deployed many scalable websites and cross-platform web applications.<br />
-        Collaborated 2 times in Google Summer Of Code projects.
+        Before moving ahead in Product Management Field, I Deployed many scalable websites and cross-platform web applications.
+        Collaborated as Contributor-2022, Mentor-2023, Org_Admin-2024 in Google Summer Of Code projects.
       </p>
       <div className="projects-container">
         {

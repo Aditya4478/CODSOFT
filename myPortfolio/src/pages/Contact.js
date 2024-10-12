@@ -20,20 +20,22 @@ const Contact = () => (
     <div className="footer-right">
       <h3>I'M ALWAYS INTERESTED ABOUT :-</h3>
       <div className="interests">
-        <p>Frontend Development</p>
-        <p>React</p>
-        <p>Web Application</p>
-        <p>WordPress Development</p>
+        <p>Product Managemnt & Marketing</p>
+        <p>Angular Front-end</p>
+        <p>User Experience</p>
+        <p>Product Launch</p>
+        <p>Business Analyst</p>
         <p>Startups</p>
+        <p>Innovations</p>
         <p>Pizza !</p>
-        <p>MERN Stack</p>
+        <p>Coffee !</p>
       </div>
 
       <hr />
 
       <h3>
         MINDING A PROJECT?
-        <span style={{position:'absolute',right:'10%'}}><a href="mailto:adityabathani.4478@gmail.com">cOnTaCt mE</a></span>
+        <span style={{position:'absolute',right:'10%'}}><a target='_blank' href="https://linktr.ee/adityabathani">cOnTaCt mE</a></span>
       </h3>
       <hr style={{marginBottom:'40px'}}/>
     </div>

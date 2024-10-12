@@ -8,11 +8,11 @@ const Hero = () => (
     <div className="hero-overlay">
       <div className="description">
         <h2 className="title">hELLO. i aM <span style={{color:'lightgreen'}} className='title'> A d i T y A</span> !</h2>
-        <h3 className="tagline">Breaking keyboards and pushing pixels since 2020</h3>
-        <p className="paragraph">I'm passionate for Hacking, Software Engineering & Web-Development having experience of 3+ years. I have done solo projects and mostly LEAD group projects by motivating members to achieve common targets. My Career Objective is to work in a dynamic, professional & innovative environment with my creativity and ‘Out of the box’ thinking to achieve conducive output!</p>
+        <h3 className="tagline">Breaking keyboards & upgrading products since 2022</h3>
+        <p className="paragraph">I led cross-functional teams, drove product optimizations, and demonstrated my ability to understand market needs and launch impactful solutions. I am particularly drawn to Google’s mission to create innovative, user-centered products that make information universally accessible.</p>
         <div className="hero-btns">
           <button className="hire-me">
-            <a href="https://drive.google.com/file/d/1z2G10Up9tPTUkTjfwBH-NnK8jwGjZeJz/view?usp=sharing" target="_blank" rel="noreferrer">
+            <a href="https://linktr.ee/adityabathani" target="_blank" rel="noreferrer">
               GET MY CV
             </a>
           </button>
